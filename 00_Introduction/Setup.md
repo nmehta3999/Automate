@@ -1,6 +1,6 @@
 # TODO
-    [ ] Complete these document!
-    [ ] Github - Add teammates for read-only access to my repo.
+    [ ] Complete this document!
+    [ ] Github - "Invite classmates".
     [ ] Figure out Slack/Discord group for teammates (Does Github have native chat?)
     [ ] VSCode Git Integration!
 ------------------------------------------------------------------------------------
