@@ -1,4 +1,6 @@
-# Automate (The Boring Stuff With Python, Second Edition)
+# Automate 
 
-_Getting started with the book..._
+
+Notes on _Automate The Boring Stuff With Python, Second Edition_.
+
 
