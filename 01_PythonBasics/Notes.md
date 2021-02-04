@@ -1,6 +1,9 @@
 # Python Basics (_My Notes_)
 
-_Working from interactive shell until I'm up-to-speed with VSCode._
+## Comments (Explained where?)
+
+* Single Line - '#' will comment until end of line
+* Multi-Line  - ''' will start a comment block, which needs the same to terminate. Note that this is part of Python's Doc String... 
 
 ## Math Operators
 
@@ -18,6 +21,11 @@ _Working from interactive shell until I'm up-to-speed with VSCode._
 
 * Python distinguishes between integers and floats!
 * Python strings are distinct from ints/floats - no mixing!
+* Python Booleans are True or False - case matters!
+
+### More on Booleans (_from Chapter 2_)
+
+* False - 0, 0.0, and "" ('', i.e. empty string) all evaluate to False.
 
 ### Strings
 
